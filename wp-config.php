@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'darkgera' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'bfc4b5984883f664c874801a6fd7da4dc4a7081d42e612bc' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
